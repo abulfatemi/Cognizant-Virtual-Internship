@@ -4,6 +4,7 @@ This repository contains the work in the AI engineer Cognizant virtual training 
 
 
 #The work includes an entire workflow for a Datascientist
+
 Data insights
 CRISP-DM
 Data cleaning
